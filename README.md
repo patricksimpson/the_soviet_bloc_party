@@ -1,4 +1,4 @@
-The Soviet House of Bloks
+The Soviet Bloc Party
 =========================
 
 A Minecraft server beyond compare.
@@ -18,12 +18,12 @@ A Minecraft server beyond compare.
 	- [Pre-patched for our Mod Set](#pre-patched-for-our-mod-set)
 	- [Installing a Custom Texture Pack](#installing-a-custom-texture-pack)
 - [Acknowledgements](#acknowledgements)
-- [The Soviet House of Bloks](#the-soviet-house-of-bloks)
+- [The Soviet Bloc Party](#the-soviet-bloc-party)
 
 # Setup
 
 Follow _all_ of the steps in this section and you'll be ready to play in The
-Soviet House of Bloks.
+Soviet Bloc Party.
 
 ## Setup the Feed the Beast Launcher
 
@@ -43,14 +43,14 @@ scan](http://virusscan.jotti.org/en)_
 
 ## Install Extra Mods
 
-We use some additional mods to enhance your experience in The Soviet House of
-Bloks.
+We use some additional mods to enhance your experience in The Soviet Bloc
+Party.
 
 1. Download
-[OptiFine_1.4.6_HD_U_D5.zip](https://github.com/mutewinter/the_soviet_house_of_bloks/raw/master/mods/OptiFine_1.4.6_HD_U_D5.zip)
+[OptiFine_1.4.6_HD_U_D5.zip](https://github.com/mutewinter/the_soviet_bloc_party/raw/master/mods/OptiFine_1.4.6_HD_U_D5.zip)
 _it gives you a way better frame rate and tons more graphics settings_
 1. Download
-[extrabiomes.jar](https://github.com/mutewinter/the_soviet_house_of_bloks/raw/master/mods/extrabiomes.jar)
+[extrabiomes.jar](https://github.com/mutewinter/the_soviet_bloc_party/raw/master/mods/extrabiomes.jar)
 _required for to play on the server_
 1. Open the **Feed the Beast Launcher** again
 1. Ensure the YogCraft Modpack is selected and click **Edit Mod Pack**
@@ -67,7 +67,7 @@ in [Registering to Play](#registering-to-play).
 
 ## Registering to Play
 
-1. Open [`players.txt`](https://github.com/mutewinter/the_soviet_house_of_bloks/blob/master/players.txt)
+1. Open [`players.txt`](https://github.com/mutewinter/the_soviet_bloc_party/blob/master/players.txt)
 1. Click **Edit**
 1. Add a new line to the bottom of the file with your Minecraft account
 username.
@@ -85,10 +85,10 @@ above
 1. Click **Launch**
 1. Click **Multiplayer**
 1. Click **Add Server**
-1. Enter `The Soviet House of Bloks` for the Server Name
+1. Enter `The Soviet Bloc Party` for the Server Name
 1. Enter `184.154.223.41:25565` for the Server Address
 1. Click **Done**
-1. Select **The Soviet House of Bloks**
+1. Select **The Soviet Bloc Party**
 1. Click **Join Server**
 
 # What are all of these items and how do I even
@@ -114,7 +114,7 @@ section](#mods) of this guide._
 
 # Mods
 
-SHB runs a modified version of the [YogCraft
+SBC runs a modified version of the [YogCraft
 pack](http://feed-the-beast.wikia.com/wiki/Category:YogCraft_Modpack).
 
 * [Advanced Machines](http://feed-the-beast.wikia.com/wiki/Advanced_Machines)
