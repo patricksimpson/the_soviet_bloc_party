@@ -3,7 +3,7 @@ The Soviet Bloc Party
 
 A Minecraft server beyond compare.
 
-![Server Status Image](https://i.embed.ly/1/image?key=90b9636090af4f24bb054cc6d4ae6590&url=http://mc.beastnode.com/index.php?r=status/25359.png)
+![Server Status Image](https://i.embed.ly/1/image?key=90b9636090af4f24bb054cc6d4ae6590&url=http://mc.beastnode.com/index.php?r=status/25359.png?)
 
 **Table of Contents**
 
