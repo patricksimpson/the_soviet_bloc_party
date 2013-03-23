@@ -1,26 +1,27 @@
-# The Soviet House of Bloks
+The Soviet House of Bloks
+=========================
 
 A Minecraft server beyond compare.
 
 **Table of Contents**
 
-- [The Soviet House of Bloks](#the-soviet-house-of-bloks)
-	- [Setup](#setup)
-		- [Setup the Feed the Beast Launcher**](#setup-the-feed-the-beast-launcher)
-		- [Install Extra Mods**](#install-extra-mods)
+- [Setup](#setup)
+	- [Setup the Feed the Beast Launcher](#setup-the-feed-the-beast-launcher)
+	- [Install Extra Mods](#install-extra-mods)
 	- [Registering to Play](#registering-to-play)
-	- [Joining the Server](#joining-the-server)
-	- [What are all of these items and how do I even](#what-are-all-of-these-items-and-how-do-i-even)
-	- [Mods](#mods)
-	- [Texture Packs](#texture-packs)
+- [Joining the Server](#joining-the-server)
+- [What are all of these items and how do I even](#what-are-all-of-these-items-and-how-do-i-even)
+- [Mods](#mods)
+- [Texture Packs](#texture-packs)
 - [Acknowledgements](#acknowledgements)
+- [The Soviet House of Bloks](#the-soviet-house-of-bloks)
 
-## Setup
+# Setup
 
 Follow _all_ of the steps in this section and you'll be ready to play in The
 Soviet House of Bloks.
 
-### Setup the Feed the Beast Launcher**
+## Setup the Feed the Beast Launcher
 
 1. Go to the [Feed the Beast
 website](http://feed-the-beast.com/#download_wrapper) and click **Download
@@ -36,7 +37,7 @@ scan](http://virusscan.jotti.org/en)_
 1. This will download the mods we play with
 1. Once Minecraft launches, **exit Minecraft**
 
-### Install Extra Mods**
+## Install Extra Mods
 
 We use some additional mods to enhance your experience in The Soviet House of
 Bloks.
@@ -72,7 +73,7 @@ username.
 Once I accept the Pull Request you'll be able to join the server! Have fun, and
 remember, _in Soviet Russia, Bloks Mine You_.
 
-## Joining the Server
+# Joining the Server
 
 1. Open the FTB_Launcher.jar that you downloaded in the [Setup](#Setup) section
 above
@@ -86,7 +87,7 @@ above
 1. Select **The Soviet House of Bloks**
 1. Click **Join Server**
 
-## What are all of these items and how do I even
+# What are all of these items and how do I even
 
 You can play however you want on the server. Like Vanilla (no mods) Minecraft?
 Then just use those blocks and ignore the killer cyborgs and mining lasers.
@@ -107,7 +108,7 @@ http://forum.feed-the-beast.com/threads/collected-guides-thread.213/
 _Note: Make sure the mods are actually installed by consulting the [Mods
 section](#mods) of this guide._
 
-## Mods
+# Mods
 
 SHB runs a modified version of the [YogCraft
 pack](http://feed-the-beast.wikia.com/wiki/Category:YogCraft_Modpack).
@@ -145,7 +146,7 @@ pack](http://feed-the-beast.wikia.com/wiki/Category:YogCraft_Modpack).
 * [Chickenbones Core](http://feed-the-beast.wikia.com/wiki/Chickenbones_Core)
 * [Misc Peripherals](http://feed-the-beast.wikia.com/wiki/MiscPeripherals)
 
-## Texture Packs
+# Texture Packs
 
 I am currently using Sphax Sphax_PureBDCraft_64x_MC14_FTB Your texture pack is
 entirely up to you and only changes what you see. I've included a few texture
