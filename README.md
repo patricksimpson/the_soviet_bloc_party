@@ -186,6 +186,15 @@ Forum](http://forum.feed-the-beast.com/forums/texture-packs.46/).
 1. Copy the texture pack(s) `.zip` files into that folder
 1. Go back to Minecraft and select the texture pack
 
+# Hotkeys
+
+Our modded version of Minecraft has a few more keybindings than you might be used to.
+Here are a few important ones:
+
+* `z` cycles through the minimap's zoom levels
+
+You can view them all by pressing `Escape` and clicking **Controls**.
+
 # Acknowledgements
 
 * Table of Contents generated with [DocToc](http://doctoc.herokuapp.com/)
