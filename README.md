@@ -13,6 +13,8 @@ A Minecraft server beyond compare.
 - [What are all of these items and how do I even](#what-are-all-of-these-items-and-how-do-i-even)
 - [Mods](#mods)
 - [Texture Packs](#texture-packs)
+	- [Pre-patched for our Mod Set](#pre-patched-for-our-mod-set)
+	- [Installing a Custom Texture Pack](#installing-a-custom-texture-pack)
 - [Acknowledgements](#acknowledgements)
 - [The Soviet House of Bloks](#the-soviet-house-of-bloks)
 
@@ -152,11 +154,25 @@ I am currently using Sphax Sphax_PureBDCraft_64x_MC14_FTB Your texture pack is
 entirely up to you and only changes what you see. I've included a few texture
 packs that have textures added for the numerous mods we are using.
 
-* [Isabella 3x - FTB Edition](https://github.com/mutewinter/the_soviet_house_of_bloks/raw/master/texture_packs/Isabella_-_FTB Edition.zip)
-* [Sphax PureBDCraft 32x MC14 FTB](https://github.com/mutewinter/the_soviet_house_of_bloks/raw/master/texture_packs/Sphax_PureBDCraft_32x_MC14_FTB.zip)
-* [Sphax PureBDCraft 64x MC14 FTB](https://github.com/mutewinter/the_soviet_house_of_bloks/raw/master/texture_packs/Sphax_PureBDCraft_64x_MC14_FTB.zip)
+## Pre-patched for our Mod Set
 
-**Installing a Custom Texture Pack**
+The #x# after each texture pack is the pixel size of the texture. Larger
+textures run slower, but look better.
+
+Sphax PureBDCraft MC14 FTB [32x32][s32] or [64x64][s64]
+![Sphax Texture Pack Screen Shot](http://i.imgur.com/hgvYGZK.png)
+
+Isabella - FTB Edition [16x16][i16]
+![Isabella Texture Pack Screen Shot](http://i.imgur.com/Dg3yyRa.jpg)
+
+More on the [FTB Texture Pack
+Forum](http://forum.feed-the-beast.com/forums/texture-packs.46/).
+
+[s32]: https://www.dropbox.com/s/gfq4dutoum7joeh/Sphax_PureBDCraft_32x_MC14_FTB.zip
+[s64]: https://www.dropbox.com/s/plre4u12xqc3llw/Sphax_PureBDCraft_64x_MC14_FTB.zip
+[i16]: https://www.dropbox.com/s/3w8cu6uw1cp92q2/Isabella_-_FTB_Edition.zip
+
+## Installing a Custom Texture Pack
 
 1. Open Minecraft
 1. Click **Texture Packs**
