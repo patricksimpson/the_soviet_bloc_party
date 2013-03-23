@@ -32,6 +32,9 @@ website](http://feed-the-beast.com/#download_wrapper) and click **Download
 jar** under the Download Client section
 1. _Optional: Virus Scan the Launcher with [Jotti's malware
 scan](http://virusscan.jotti.org/en)_
+1. _Optional: Move `FTB_Launcher.jar` a different folder. Minecraft will be
+installed in the folder the `FTB_Launcher.jar` is located in. I put it in
+`~/Documents/Minecraft`._
 1. **Right Click** on `FTB_Launcher.jar` and **Click Open**
 1. _If you are prompted to install Java, click **Install**_
 1. Click on the **MODPACKS** tab
