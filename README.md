@@ -32,7 +32,7 @@ website](http://feed-the-beast.com/#download_wrapper) and click **Download
 jar** under the Download Client section
 1. _Optional: Virus Scan the Launcher with [Jotti's malware
 scan](http://virusscan.jotti.org/en)_
-1. Right Click on `FTB_Launcher.jar` and **Click Open**
+1. **Right Click** on `FTB_Launcher.jar` and **Click Open**
 1. _If you are prompted to install Java, click **Install**_
 1. Click on the **MODPACKS** tab
 1. Select **YogCraft Modpack (v1.0.0) Minecraft Version 1.4.7**
