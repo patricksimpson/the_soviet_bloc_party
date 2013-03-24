@@ -132,6 +132,7 @@ pack](http://feed-the-beast.wikia.com/wiki/Category:YogCraft_Modpack).
 * [Forestry](http://feed-the-beast.wikia.com/wiki/Forestry)
 * [GravityGun](http://feed-the-beast.wikia.com/wiki/Gravity_Gun)
 * [Industrial Craft 2](http://feed-the-beast.wikia.com/wiki/IndustrialCraft_2)
+* [MyTown](http://www.minecraftforum.net/topic/1650110-mytown-aperf-server-protection-and-performance-mods/)
 * [Nuclear Control](http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915)
 * [InvTweaks](http://www.minecraftforum.net/topic/323444-147-inventory-tweaks-150-jan-17/)
 * [Iron Chests](http://feed-the-beast.wikia.com/wiki/Iron_Chests)
@@ -192,6 +193,7 @@ Our modded version of Minecraft has a few more keybindings than you might be use
 Here are a few important ones:
 
 * `z` cycles through the minimap's zoom levels
+* `m` brings up the map menu (where you can set waypoints)
 
 You can view them all by pressing `Escape` and clicking **Controls**.
 
