@@ -16,7 +16,11 @@ A Minecraft server beyond compare.
 - [Mods](#mods)
 - [Texture Packs](#texture-packs)
 	- [Pre-patched for our Mod Set](#pre-patched-for-our-mod-set)
+		- [[John Smith: Technician's Remix][js]](#john-smith:-technician's-remixjs)
+		- [[Sphax PureBDCraft FTB][sph]](#sphax-purebdcraft-ftbsph)
+		- [[Isabella - FTB Edition][isa]](#isabella---ftb-editionisa)
 	- [Installing a Custom Texture Pack](#installing-a-custom-texture-pack)
+- [Hotkeys](#hotkeys)
 - [Acknowledgements](#acknowledgements)
 - [The Soviet Bloc Party](#the-soviet-bloc-party)
 
@@ -167,14 +171,23 @@ The #x# after each texture pack is the pixel size of the texture and a direct
 link to the pre-patched texture pack. Larger textures run slower, but look
 better.
 
-[John Smith: Technician's Remix][js] [**32x32**][j32]
+### [John Smith: Technician's Remix][js]
+
 ![John Smith Texture Pack Screenshot](http://i.imgur.com/u9R6Y4z.png)
 
-[Sphax PureBDCraft FTB][sph] [**32x32**][s32] or [**64x64**][s64]
+Download pre-patched John Smith [**32x32**][j32]
+
+### [Sphax PureBDCraft FTB][sph]
+
 ![Sphax Texture Pack Screen Shot](http://i.imgur.com/hgvYGZK.png)
 
-[Isabella - FTB Edition][isa] [**16x16**][i16]
+Download pre-patched Sphax [**32x32**][s32] or [**64x64**][s64]
+
+### [Isabella - FTB Edition][isa]
+
 ![Isabella Texture Pack Screen Shot](http://i.imgur.com/Dg3yyRa.jpg)
+
+Download pre-patched Isabella [**16x16**][i16]
 
 More on the [FTB Texture Pack
 Forum](http://forum.feed-the-beast.com/forums/texture-packs.46/).
