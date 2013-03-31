@@ -1,7 +1,7 @@
 The Soviet Bloc Party
 =========================
 
-A Minecraft server beyond compare.
+In Russia, bloc stacks you.
 
 ![Server Status Image](https://i.embed.ly/1/image?key=90b9636090af4f24bb054cc6d4ae6590&url=http://mc.beastnode.com/index.php?r=status/25359.png?)
 
@@ -16,9 +16,9 @@ A Minecraft server beyond compare.
 - [Mods](#mods)
 - [Texture Packs](#texture-packs)
 	- [Pre-patched for our Mod Set](#pre-patched-for-our-mod-set)
-		- [[John Smith: Technician's Remix][js]](#john-smith:-technician's-remixjs)
-		- [[Sphax PureBDCraft FTB][sph]](#sphax-purebdcraft-ftbsph)
-		- [[Isabella - FTB Edition][isa]](#isabella---ftb-editionisa)
+		- [John Smith: Technician's Remix](#john-smith:-technician's-remixjs)
+		- [Sphax PureBDCraft FTB](#sphax-purebdcraft-ftbsph)
+		- [Isabella - FTB Edition](#isabella---ftb-editionisa)
 	- [Installing a Custom Texture Pack](#installing-a-custom-texture-pack)
 - [Hotkeys](#hotkeys)
 - [Acknowledgements](#acknowledgements)
