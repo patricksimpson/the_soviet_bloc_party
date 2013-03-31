@@ -32,9 +32,9 @@ website](http://feed-the-beast.com/#download_wrapper) and click **Download
 jar** under the Download Client section
 1. _Optional: Virus Scan the Launcher with [Jotti's malware
 scan](http://virusscan.jotti.org/en)_
-1. _Optional: Move `FTB_Launcher.jar` a different folder. Minecraft will be
-installed in the folder the `FTB_Launcher.jar` is located in. I put it in
-`~/Documents/Minecraft`._
+1. _Optional: Move_ `FTB_Launcher.jar` _a different folder. Minecraft will be
+installed in the folder the_ `FTB_Launcher.jar` _is located in. I put it in_
+`~/Documents/Minecraft`.
 1. **Right Click** on `FTB_Launcher.jar` and **Click Open**
 1. _If you are prompted to install Java, click **Install**_
 1. Click on the **MODPACKS** tab
@@ -163,21 +163,29 @@ packs that have textures added for the numerous mods we are using.
 
 ## Pre-patched for our Mod Set
 
-The #x# after each texture pack is the pixel size of the texture. Larger
-textures run slower, but look better.
+The #x# after each texture pack is the pixel size of the texture and a direct
+link to the pre-patched texture pack. Larger textures run slower, but look
+better.
 
-Sphax PureBDCraft MC14 FTB [32x32][s32] or [64x64][s64]
+[John Smith: Technician's Remix][js] [32x32][j32]
+![John Smith Texture Pack Screenshot](http://i.imgur.com/u9R6Y4z.png)
+
+[Sphax PureBDCraft FTB][sph] [32x32][s32] or [64x64][s64]
 ![Sphax Texture Pack Screen Shot](http://i.imgur.com/hgvYGZK.png)
 
-Isabella - FTB Edition [16x16][i16]
+[Isabella - FTB Edition][isa] [16x16][i16]
 ![Isabella Texture Pack Screen Shot](http://i.imgur.com/Dg3yyRa.jpg)
 
 More on the [FTB Texture Pack
 Forum](http://forum.feed-the-beast.com/forums/texture-packs.46/).
 
-[s32]: https://www.dropbox.com/s/gfq4dutoum7joeh/Sphax_PureBDCraft_32x_MC14_FTB.zip
-[s64]: https://www.dropbox.com/s/plre4u12xqc3llw/Sphax_PureBDCraft_64x_MC14_FTB.zip
-[i16]: https://www.dropbox.com/s/3w8cu6uw1cp92q2/Isabella_-_FTB_Edition.zip
+[js]: http://jstr.jslegacy.com/index.htm
+[sph]: http://bdcraft.net/forum/128x64x-feed-beast-beta-pack-texture-pack-add
+[isa]: http://forum.feed-the-beast.com/threads/16x-isabella-ii-ftb-edition.1379/
+[j32]: http://www.mediafire.com/download.php?3pf43tes4g1kbxn
+[s32]: http://www.mediafire.com/download.php?jx09337bd97nfap
+[s64]: http://www.mediafire.com/download.php?6tyrj5jqz0rboly
+[i16]: http://www.mediafire.com/download.php?qwy3535ta32ppeb
 
 ## Installing a Custom Texture Pack
 
