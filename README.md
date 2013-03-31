@@ -167,13 +167,13 @@ The #x# after each texture pack is the pixel size of the texture and a direct
 link to the pre-patched texture pack. Larger textures run slower, but look
 better.
 
-[John Smith: Technician's Remix][js] [32x32][j32]
+[John Smith: Technician's Remix][js] [**32x32**][j32]
 ![John Smith Texture Pack Screenshot](http://i.imgur.com/u9R6Y4z.png)
 
-[Sphax PureBDCraft FTB][sph] [32x32][s32] or [64x64][s64]
+[Sphax PureBDCraft FTB][sph] [**32x32**][s32] or [**64x64**][s64]
 ![Sphax Texture Pack Screen Shot](http://i.imgur.com/hgvYGZK.png)
 
-[Isabella - FTB Edition][isa] [16x16][i16]
+[Isabella - FTB Edition][isa] [**16x16**][i16]
 ![Isabella Texture Pack Screen Shot](http://i.imgur.com/Dg3yyRa.jpg)
 
 More on the [FTB Texture Pack
