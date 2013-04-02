@@ -88,7 +88,7 @@ Open
 ## Damage Indicators
 
 _Damage Indicators shows you health and popup damage for anything you look at.
-Check out [this forum thread][di] for more information and pictures.
+Check out [this forum thread][di] for more information and pictures._
 
 **Installation Instructions**
 
