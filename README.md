@@ -10,9 +10,9 @@ In Russia, bloc stacks you.
 - [Setup](#setup)
 	- [Setup the Feed the Beast Launcher](#setup-the-feed-the-beast-launcher)
 	- [Install Extra Mods](#install-extra-mods)
-	- [Extra Biomes](#extra-biomes)
-	- [OptiFine](#optifine)
-	- [Damage Indicators](#damage-indicators)
+		- [Extra Biomes](#extra-biomes)
+		- [OptiFine](#optifine)
+		- [Damage Indicators](#damage-indicators)
 	- [Install the Texture Pack](#install-the-texture-pack)
 	- [Registering to Play](#registering-to-play)
 - [Joining the Server](#joining-the-server)
@@ -53,7 +53,7 @@ installed in the folder the_ `FTB_Launcher.jar` _is located in. I put it in_
 We use some additional mods to enhance your experience in The Soviet Bloc
 Party.
 
-## Extra Biomes
+### Extra Biomes
 
 _The Extra Biomes mod is **required** to play on the server. It is responsible
 for generating tons of new biomes and cool things for us to play with. Read
@@ -69,7 +69,7 @@ more in [their wiki][eb]._
 1. Click **Add Mod** in the lower right corner
 1. Select **extrabiomes.jar** from your Downloads folder and click Open
 
-## OptiFine
+### OptiFine
 
 _OptiFine is **highly** recommend to install. You will see nearly double
 performance when playing. Read more about it [in this forum thread][of]_
@@ -85,7 +85,7 @@ performance when playing. Read more about it [in this forum thread][of]_
 1. Select **OptiFine_1.4.6_HD_U_D5.zip** from your Downloads folder and click
 Open
 
-## Damage Indicators
+### Damage Indicators
 
 _Damage Indicators shows you health and popup damage for anything you look at.
 Check out [this forum thread][di] for more information and pictures._
