@@ -90,8 +90,9 @@ Follow the steps below to install the texture pack.
 1. Open Minecraft
 1. Click **Texture Packs**
 1. Click **Open texture pack folder**
-1. Copy the texture pack(s) `.zip` files into that folder
+1. Copy the texture pack `.zip` file into that folder
 1. Go back to Minecraft and select the texture pack
+1. Give it a second to load
 
 ## Registering to Play
 
