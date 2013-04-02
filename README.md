@@ -14,15 +14,11 @@ In Russia, bloc stacks you.
 - [Joining the Server](#joining-the-server)
 - [What are all of these items and how do I even](#what-are-all-of-these-items-and-how-do-i-even)
 - [Mods](#mods)
-- [Texture Packs](#texture-packs)
-	- [Pre-patched for our Mod Set](#pre-patched-for-our-mod-set)
-		- [John Smith Technician's Remix](#john-smith-technician's-remix)
-		- [Sphax PureBDCraft FTB](#sphax-purebdcraft-ftb)
-		- [Isabella - FTB Edition](#isabella---ftb-edition)
+- [Texture Pack](#texture-pack)
 	- [Installing a Custom Texture Pack](#installing-a-custom-texture-pack)
 - [Hotkeys](#hotkeys)
+- [Other Texture Packs](#other-texture-packs)
 - [Acknowledgements](#acknowledgements)
-- [The Soviet Bloc Party](#the-soviet-bloc-party)
 
 # Setup
 
@@ -159,49 +155,19 @@ pack](http://feed-the-beast.wikia.com/wiki/Category:YogCraft_Modpack).
 * [Chickenbones Core](http://feed-the-beast.wikia.com/wiki/Chickenbones_Core)
 * [Misc Peripherals](http://feed-the-beast.wikia.com/wiki/MiscPeripherals)
 
-# Texture Packs
+# Texture Pack
 
-I am currently using Sphax Sphax_PureBDCraft_64x_MC14_FTB Your texture pack is
-entirely up to you and only changes what you see. I've included a few texture
-packs that have textures added for the numerous mods we are using.
-
-## Pre-patched for our Mod Set
-
-The #x# after each texture pack is the pixel size of the texture and a direct
-link to the pre-patched texture pack. Larger textures run slower, but look
-better.
-
-### John Smith Technician's Remix
+The texture pack of choice for the server is [John Smith Technician's Remix
+][js]. Here's what it looks like:
 
 ![John Smith Texture Pack Screenshot](http://i.imgur.com/u9R6Y4z.png)
 
-[John Smith Technician's Remix Website][js] | Download pre-patched John Smith
-[**32x32**][j32]
+Since we're using a ton of custom mods, I've taken the liberty of pre-buildng
+a version with our mods.
 
-### Sphax PureBDCraft FTB
+[**Download the Pre-Patched John Smith's Texture Pack**][j32]
 
-![Sphax Texture Pack Screen Shot](http://i.imgur.com/hgvYGZK.png)
-
-[Sphax FTB Patch Forum Thread][sph] | Download pre-patched Sphax
-[**32x32**][s32] or [**64x64**][s64]
-
-### Isabella - FTB Edition
-
-![Isabella Texture Pack Screen Shot](http://i.imgur.com/Dg3yyRa.jpg)
-
-[Isabella FTB Forum Thread][isa] | Download pre-patched Isabella
-[**16x16**][i16]
-
-More on the [FTB Texture Pack
-Forum](http://forum.feed-the-beast.com/forums/texture-packs.46/).
-
-[js]: http://jstr.jslegacy.com/index.htm
-[sph]: http://bdcraft.net/forum/128x64x-feed-beast-beta-pack-texture-pack-add
-[isa]: http://forum.feed-the-beast.com/threads/16x-isabella-ii-ftb-edition.1379/
-[j32]: http://www.mediafire.com/download.php?3pf43tes4g1kbxn
-[s32]: http://www.mediafire.com/download.php?jx09337bd97nfap
-[s64]: http://www.mediafire.com/download.php?6tyrj5jqz0rboly
-[i16]: http://www.mediafire.com/download.php?qwy3535ta32ppeb
+Follow the steps below to install the texture pack.
 
 ## Installing a Custom Texture Pack
 
@@ -221,6 +187,11 @@ Here are a few important ones:
 
 You can view them all by pressing `Escape` and clicking **Controls**.
 
+# Other Texture Packs
+
 # Acknowledgements
 
 * Table of Contents generated with [DocToc](http://doctoc.herokuapp.com/)
+
+[js]: http://jstr.jslegacy.com/index.htm
+[j32]: http://www.mediafire.com/download.php?3pf43tes4g1kbxn
