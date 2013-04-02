@@ -1,5 +1,5 @@
 The Soviet Bloc Party
-=========================
+=====================
 
 In Russia, bloc stacks you.
 
@@ -10,12 +10,11 @@ In Russia, bloc stacks you.
 - [Setup](#setup)
 	- [Setup the Feed the Beast Launcher](#setup-the-feed-the-beast-launcher)
 	- [Install Extra Mods](#install-extra-mods)
+	- [Install the Texture Pack](#install-the-texture-pack)
 	- [Registering to Play](#registering-to-play)
 - [Joining the Server](#joining-the-server)
 - [What are all of these items and how do I even](#what-are-all-of-these-items-and-how-do-i-even)
 - [Mods](#mods)
-- [Texture Pack](#texture-pack)
-	- [Installing a Custom Texture Pack](#installing-a-custom-texture-pack)
 - [Hotkeys](#hotkeys)
 - [Other Texture Packs](#other-texture-packs)
 - [Acknowledgements](#acknowledgements)
@@ -68,6 +67,31 @@ Open
 
 You're almost ready to play. All you need to do now is follow the instructions
 in [Registering to Play](#registering-to-play).
+
+## Install the Texture Pack
+
+_Note: this step is optional, but your game won't look nearly as cool without
+our custom texture pack._
+
+The texture pack of choice for the server is [John Smith Technician's Remix
+][js]. Here's what it looks like:
+
+![John Smith Texture Pack Screenshot](http://i.imgur.com/u9R6Y4z.png)
+
+Since we're using a ton of custom mods, I've taken the liberty of pre-buildng
+a version with our mods.
+
+[**Download the Pre-Patched John Smith's Texture Pack**][j32]
+
+Follow the steps below to install the texture pack.
+
+**Installing a Custom Texture Pack**
+
+1. Open Minecraft
+1. Click **Texture Packs**
+1. Click **Open texture pack folder**
+1. Copy the texture pack(s) `.zip` files into that folder
+1. Go back to Minecraft and select the texture pack
 
 ## Registering to Play
 
@@ -154,28 +178,6 @@ pack](http://feed-the-beast.wikia.com/wiki/Category:YogCraft_Modpack).
 * [Xeno's Reliquary](http://www.minecraftforum.net/topic/1596973-147-xenos-reliquary-v105d/)
 * [Chickenbones Core](http://feed-the-beast.wikia.com/wiki/Chickenbones_Core)
 * [Misc Peripherals](http://feed-the-beast.wikia.com/wiki/MiscPeripherals)
-
-# Texture Pack
-
-The texture pack of choice for the server is [John Smith Technician's Remix
-][js]. Here's what it looks like:
-
-![John Smith Texture Pack Screenshot](http://i.imgur.com/u9R6Y4z.png)
-
-Since we're using a ton of custom mods, I've taken the liberty of pre-buildng
-a version with our mods.
-
-[**Download the Pre-Patched John Smith's Texture Pack**][j32]
-
-Follow the steps below to install the texture pack.
-
-## Installing a Custom Texture Pack
-
-1. Open Minecraft
-1. Click **Texture Packs**
-1. Click **Open texture pack folder**
-1. Copy the texture pack(s) `.zip` files into that folder
-1. Go back to Minecraft and select the texture pack
 
 # Hotkeys
 
