@@ -1,8 +1,4 @@
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
-
-	- [Pre-patched for our Mod Set](#pre-patched-for-our-mod-set)
-- [Sphax PureBDCraft FTB](#sphax-purebdcraft-ftb)
-- [Isabella - FTB Edition](#isabella---ftb-edition)
+# More Texture Packs
 
 ## Pre-patched for our Mod Set
 
