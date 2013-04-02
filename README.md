@@ -92,13 +92,13 @@ Check out [this forum thread][di] for more information and pictures.
 
 **Installation Instructions**
 
-1. Download [DamageIndicators[1.4.7]2.4.8.zip][did]
+1. Download [DamageIndicators_2.4.8.zip][did]
 1. Open the **Feed the Beast Launcher**
 1. Select the **MODPACKS** tab
 1. Ensure the YogCraft Modpack is selected and click **Edit Mod Pack**
 1. Select the **Mods** tab
 1. Click **Add Mod** in the lower right corner
-1. Select **DamageIndicators[1.4.7]2.4.8.zip** from your Downloads folder and
+1. Select **DamageIndicators_2.4.8.zip** from your Downloads folder and
 click Open
 
 ## Install the Texture Pack
@@ -243,4 +243,4 @@ You can view them all by pressing `Escape` and clicking **Controls**.
 [ofd]: https://github.com/mutewinter/the_soviet_bloc_party/raw/master/mods/OptiFine_1.4.6_HD_U_D5.zip
 
 [di]: http://www.minecraftforum.net/topic/1536685-151forge-hit-splat-damage-indicators-v256-rpg-ui-and-damage-amount-mod/
-[did]: https://github.com/mutewinter/the_soviet_bloc_party/raw/master/mods/DamageIndicators[1.4.7]2.4.8.zip
+[did]: https://github.com/mutewinter/the_soviet_bloc_party/raw/master/mods/DamageIndicators_2.4.8.zip
