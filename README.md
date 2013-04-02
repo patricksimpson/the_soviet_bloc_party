@@ -104,7 +104,7 @@ username.
 1. Send a Pull Request
 
 Once I accept the Pull Request you'll be able to join the server! Have fun, and
-remember, _in Soviet Russia, Blocs Mine You_.
+remember, _in Soviet Russia, Bloc Mines You_.
 
 # Joining the Server
 
