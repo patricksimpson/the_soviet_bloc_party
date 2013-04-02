@@ -229,9 +229,13 @@ You can view them all by pressing `Escape` and clicking **Controls**.
 
 # Other Texture Packs
 
+See [`more_texture_packs.md`][moretp] for more texture pack choices.
+
 # Acknowledgements
 
 * Table of Contents generated with [DocToc](http://doctoc.herokuapp.com/)
+
+[moretp]: https://github.com/mutewinter/the_soviet_bloc_party/blob/master/more_texture_packs.md
 
 [js]: http://jstr.jslegacy.com/index.htm
 [j32]: http://www.mediafire.com/download.php?3pf43tes4g1kbxn
