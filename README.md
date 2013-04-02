@@ -10,6 +10,9 @@ In Russia, bloc stacks you.
 - [Setup](#setup)
 	- [Setup the Feed the Beast Launcher](#setup-the-feed-the-beast-launcher)
 	- [Install Extra Mods](#install-extra-mods)
+	- [Extra Biomes](#extra-biomes)
+	- [OptiFine](#optifine)
+	- [Damage Indicators](#damage-indicators)
 	- [Install the Texture Pack](#install-the-texture-pack)
 	- [Registering to Play](#registering-to-play)
 - [Joining the Server](#joining-the-server)
@@ -18,6 +21,7 @@ In Russia, bloc stacks you.
 - [Hotkeys](#hotkeys)
 - [Other Texture Packs](#other-texture-packs)
 - [Acknowledgements](#acknowledgements)
+- [The Soviet Bloc Party](#the-soviet-bloc-party)
 
 # Setup
 
@@ -49,24 +53,53 @@ installed in the folder the_ `FTB_Launcher.jar` _is located in. I put it in_
 We use some additional mods to enhance your experience in The Soviet Bloc
 Party.
 
-1. Download
-[OptiFine_1.4.6_HD_U_D5.zip](https://github.com/mutewinter/the_soviet_bloc_party/raw/master/mods/OptiFine_1.4.6_HD_U_D5.zip)
-_it gives you a way better frame rate and tons more graphics settings_
-1. Download
-[extrabiomes.jar](https://github.com/mutewinter/the_soviet_bloc_party/raw/master/mods/extrabiomes.jar)
-_required for to play on the server_
-1. Open the **Feed the Beast Launcher** again
+## Extra Biomes
+
+_The Extra Biomes mod is **required** to play on the server. It is responsible
+for generating tons of new biomes and cool things for us to play with. Read
+more in [their wiki][eb]._
+
+**Installation Instructions**
+
+1. Download [extrabiomes.jar][ebd]
+1. Open the **Feed the Beast Launcher**
+1. Select the **MODPACKS** tab
 1. Ensure the YogCraft Modpack is selected and click **Edit Mod Pack**
 1. Select the **Mods** tab
 1. Click **Add Mod** in the lower right corner
 1. Select **extrabiomes.jar** from your Downloads folder and click Open
+
+## OptiFine
+
+_OptiFine is **highly** recommend to install. You will see nearly double
+performance when playing. Read more about it [in this forum thread][of]_
+
+**Installation Instructions**
+
+1. Download [OptiFine_1.4.6_HD_U_D5.zip][ofd]
+1. Open the **Feed the Beast Launcher**
+1. Select the **MODPACKS** tab
+1. Ensure the YogCraft Modpack is selected and click **Edit Mod Pack**
 1. Select the **JarMods** tab
 1. Click **Add Mod**
 1. Select **OptiFine_1.4.6_HD_U_D5.zip** from your Downloads folder and click
 Open
 
-You're almost ready to play. All you need to do now is follow the instructions
-in [Registering to Play](#registering-to-play).
+## Damage Indicators
+
+_Damage Indicators shows you health and popup damage for anything you look at.
+Check out [this forum thread][di] for more information and pictures.
+
+**Installation Instructions**
+
+1. Download [DamageIndicators[1.4.7]2.4.8.zip][did]
+1. Open the **Feed the Beast Launcher**
+1. Select the **MODPACKS** tab
+1. Ensure the YogCraft Modpack is selected and click **Edit Mod Pack**
+1. Select the **Mods** tab
+1. Click **Add Mod** in the lower right corner
+1. Select **DamageIndicators[1.4.7]2.4.8.zip** from your Downloads folder and
+click Open
 
 ## Install the Texture Pack
 
@@ -78,7 +111,7 @@ The texture pack of choice for the server is [John Smith Technician's Remix
 
 ![John Smith Texture Pack Screenshot](http://i.imgur.com/u9R6Y4z.png)
 
-Since we're using a ton of custom mods, I've taken the liberty of pre-buildng
+Since we're using a ton of custom mods, I've taken the liberty of pre-building
 a version with our mods.
 
 [**Download the Pre-Patched John Smith's Texture Pack**][j32]
@@ -190,6 +223,7 @@ Here are a few important ones:
 
 * `z` cycles through the minimap's zoom levels
 * `m` brings up the map menu (where you can set waypoints)
+* `.` brings up the settings for Damage Indicators
 
 You can view them all by pressing `Escape` and clicking **Controls**.
 
@@ -201,3 +235,12 @@ You can view them all by pressing `Escape` and clicking **Controls**.
 
 [js]: http://jstr.jslegacy.com/index.htm
 [j32]: http://www.mediafire.com/download.php?3pf43tes4g1kbxn
+
+[eb]: https://github.com/ExtrabiomesXL/ExtrabiomesXL/wiki/List-of-Biomes
+[ebd]: https://github.com/mutewinter/the_soviet_bloc_party/raw/master/mods/extrabiomes.jar
+
+[of]: http://www.minecraftforum.net/topic/249637-151-optifine-hd-b1-fps-boost-hd-textures-aa-af-and-much-more/
+[ofd]: https://github.com/mutewinter/the_soviet_bloc_party/raw/master/mods/OptiFine_1.4.6_HD_U_D5.zip
+
+[di]: http://www.minecraftforum.net/topic/1536685-151forge-hit-splat-damage-indicators-v256-rpg-ui-and-damage-amount-mod/
+[did]: https://github.com/mutewinter/the_soviet_bloc_party/raw/master/mods/DamageIndicators[1.4.7]2.4.8.zip
