@@ -93,6 +93,9 @@ Follow the steps below to install the texture pack.
 1. Copy the texture pack `.zip` file into that folder
 1. Go back to Minecraft and select the texture pack
 1. Give it a second to load
+1. **Click Done**
+
+Enjoy your new, beautiful Minecraft.
 
 ## Registering to Play
 
