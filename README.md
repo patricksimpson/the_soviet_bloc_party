@@ -224,6 +224,8 @@ Here are a few important ones:
 * `z` cycles through the minimap's zoom levels
 * `m` brings up the map menu (where you can set waypoints)
 * `.` brings up the settings for Damage Indicators
+* `r` while hovering over an item in your inventory shows its recipe
+* `u` while hovering over an item in your inventory shows recipes it's used in
 
 You can view them all by pressing `Escape` and clicking **Controls**.
 
