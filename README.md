@@ -156,6 +156,25 @@ above
 1. Select **The Soviet Bloc Party**
 1. Click **Join Server**
 
+# Voice Chat
+
+We've got a [Mumble](http://mumble.sourceforge.net/) voice chat server! You
+can join it by following these steps:
+
+1. [Install Mumble](http://mumble.sourceforge.net/)
+1. Open the **Server Connection Dialog**
+1. Click **Add New..** in the lower left corner
+1. Enter `The Soviet Bloc Party` for the Label
+1. Enter `184.173.217.82` for the Address
+1. Enter `63144` for the Port
+1. Enter your Minecraft username for the Username
+1. Ask someone on the Minecraft server for the password ;)
+1. Click **OK**
+
+The server will now appear in your Favorites list, you can double-click to
+join it. You will also want to go into the Preferences to the **Shortcuts**
+tab and setup a **Push-to-Talk** hotkey. I use the middle mouse button.
+
 # What are all of these items and how do I even
 
 You can play however you want on the server. Like Vanilla (no mods) Minecraft?
